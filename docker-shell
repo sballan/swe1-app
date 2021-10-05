@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker build . -t django_helloworld:latest
+docker container run   -it --rm django_helloworld bash
