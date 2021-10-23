@@ -2,3 +2,7 @@ django-heroku
 gunicorn
 django
 psycopg2-binary
+black
+flake8
+coveralls
+coverage
